@@ -1,0 +1,262 @@
+{
+    "products":[
+
+        {
+            "id":"1",
+            "name":"banana",
+            "description":" 100% organic, Fresh, 1 kg",
+            "type":"fruit",
+            "price":"$3.95",
+            "img":"img/fruits/banana.jpg"
+        },
+        {   "id":"2",
+            "name":"strawberry",
+            "description":"100% organic, Fresh, 1 kg",
+            "type":"fruit",
+            "price":"$4.95",
+            "img":"img/fruits/strawberry.jpg"
+        },
+        {
+            "id":"3",
+            "name":"ananas",
+            "description":"100% organic, Fresh, 1 kg",
+            "type":"fruit",
+            "price":"$3.95",
+            "img":"img/fruits/ananas.jpg"
+        },   
+        {
+            "id":"4",
+            "name":"apple",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"fruit",
+            "price":"$1.95",
+            "img":"img/fruits/apple.jpg"
+        },
+        {
+            "id":"5",
+            "name":"Green Grape",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"fruit",
+            "price":"$3.95",
+            "img":"img/fruits/greenGrape.jpg"
+        },    
+        {
+            "id":"6",
+            "name":"orange",
+            "description":"100% organic, Fresh, 1 kg",
+            "type":"fruit",
+            "price":"$2.95",
+            "img":"img/fruits/orange.jpg"
+        },
+        {
+            "id":"7",
+            "name":"Mango",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"fruit",
+            "price":"$5.95",
+            "img":"img/fruits/mango.jpg"
+        },
+        {
+            "id":"8",
+            "name":"Kiwi",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"fruit",
+            "price":"$3.95",
+            "img":"img/fruits/kiwi.jpg"
+        },
+        {
+            "id":"9",
+            "name":"Pear",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"fruit",
+            "price":"$2.95",
+            "img":"img/fruits/pear.jpg"
+        },
+        {
+            "id":"10",
+            "name":"Red Grape",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"fruit",
+            "price":"$3.95",
+            "img":"img/fruits/redGrape.jpg"
+        },
+        {
+            "id":"11",
+            "name":"lime",
+            "description":"100% organic, Fresh, 1 kg",
+            "type":"fruit",
+            "price":"$6.95",
+            "img":"img/fruits/lime.jpg"
+        },
+     
+
+
+        {
+            "id":"101",
+            "name":"asparagus",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$5.85",
+            "img":"img/vegetables/asparagus.jpg"
+        },
+        {
+            "id":"102",
+            "name":"broccoli",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$2.95",
+            "img":"img/vegetables/broccoli.jpg"
+        },
+        {
+            "id":"103",
+            "name":"cauliflower",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/cauliflower.jpg"
+        },
+        {
+            "id":"104",
+            "name":"lettuce",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/lettuce.jpg"
+        },
+        {
+            "id":"105",
+            "name":"onion",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/onion.jpg"
+        },
+        {
+            "id":"106",
+            "name":"tomato",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/tomato.jpg"
+        },
+        {
+            "id":"107",
+            "name":"Pumpkin",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/pumpkin.jpg"
+        },
+        
+        {
+            "id":"108",
+            "name":"Zucchini",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/zucchini.jpg"
+        },
+        {
+            "id":"109",
+            "name":"Green Onion",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/greenOnion.jpg"
+        },
+        {
+            "id":"110",
+            "name":"Garlic",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/garlic.jpg"
+        },
+        {
+            "id":"111",
+            "name":"Green Cabbage",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/greenCabbage.jpg"
+        },
+        {
+            "id":"112",
+            "name":"Red Cabbage",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/redCabbage.jpg"
+        },
+        {
+            "id":"113",
+            "name":"Basil",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/basil.jpg"
+        },
+        {
+            "id":"114",
+            "name":"Red Potato",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/redPotato.jpg"
+        },
+        {
+            "id":"115",
+            "name":"Radish",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/radish.jpg"
+        },
+        {
+            "id":"116",
+            "name":"Ginger",
+            "description":"100% organic, Fresh, 1 kg", 
+            "type":"vegetable",
+            "price":"$1.95",
+            "img":"img/vegetables/ginger.jpg"
+        }
+        
+
+
+
+    ],
+
+
+
+    "carouselFruit": [
+        {
+          "id": 1,
+          "img": "img/fruits/ananas.jpg"
+        },
+        {
+          "id": 2,
+          "img": "img/fruits/apple.jpg"
+        },
+        {
+          "id": 3,
+          "img": "img/fruits/banana.jpg"
+        }
+    
+      ],
+      
+    "carouselVegetable": [
+        {
+          "id": 1,
+          "img": "img/vegetables/potato.jpg"
+        },
+        {
+          "id": 2,
+          "img": "img/vegetables/tomate.jpg"
+        },
+        {
+          "id": 3,
+          "img": "img/vegetables/lettuce.jpg"
+        }
+    
+      ]
+}

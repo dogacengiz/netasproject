@@ -1,0 +1,65 @@
+.navbar {
+  border-bottom: #ee5d0a 3px solid;
+  opacity: 0.99;
+}
+#home-section {
+  min-height: 800px;
+  color: white;
+  background-color: #fff;
+}
+
+#home-section .dark-overlay {
+  position: absolute;
+  
+  left: 0;
+  width: 100%;
+  min-height: 800px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+
+#home-section .home-inner {
+  padding-top: 50px;
+}
+
+#home-section .card-form {
+  opacity: 0.9;
+}
+
+#veg-head-section{
+margin-top: 25px;
+background: url(../img/veg-header.jpg);
+background-repeat: repeat-x;
+}
+
+#fruit-head-section{
+margin-top: 25px;
+background: url(../img/fruit-header.jpg);
+background-repeat: repeat-x;
+}
+
+#fruitLoad{
+  margin-bottom: 500px;
+}
+
+
+#contactForm{
+  margin-top: 200px;
+}
+
+#contactButton{
+  color: #fff;
+  background-color: #ee5d0a;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+#cart {
+  background: #daccba;
+  background: -webkit-linear-gradient(to top, #daccba, #ee5d0a);
+  background: linear-gradient(to top, #daccba, #ee5d0a);
+  min-height: 150vh;
+}
+#quantity{
+  width: 75px;
+}
